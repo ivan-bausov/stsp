@@ -1,0 +1,17 @@
+{
+  "name": "application_name",
+  "version": "0.0.0",
+  "description": "Application description",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "dependencies": {
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@types/jasmine": "latest",
+    "jasmine": "latest"
+  }
+}

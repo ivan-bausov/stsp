@@ -1,0 +1,26 @@
+{
+  "name": "stsp",
+  "version": "1.0.0",
+  "description": "Simple TypeScript-project boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-bausov/stsp.git"
+  },
+  "keywords": [
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Ivan Bausov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan-bausov/stsp/issues"
+  },
+  "homepage": "https://github.com/ivan-bausov/stsp#readme",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
