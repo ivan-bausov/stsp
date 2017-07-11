@@ -1,5 +1,5 @@
 cd spec
 git clean -dfx
 cd ..
-tsc
+./node_modules/typescript/bin/tsc
 jasmine
